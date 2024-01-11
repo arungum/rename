@@ -10,7 +10,7 @@ public class testapi {
 		System.out.println("new2");
 
 		System.out.println("new1");
-
+		System.out.println("hahaha");
 	}
 	
 
